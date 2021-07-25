@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Título de nivel 1
+## Título de nivel 2
+### Título de nivel 3
+Esto es un texto con *énfasis*.
+Este texto es **importante**.
+Esto es un texto ~~tachado~~.
 
-You can use the [editor on GitHub](https://github.com/almerimedia/test-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este texto es un párrafo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este es otro párrafo
 
-### Markdown
+* Primavera
+* Verano
+* Otoño
+* Invierno
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Primavera
+2. Verano
+3. Otoño
+4. Invierno
 
-```markdown
-Syntax highlighted code block
+* Lunes
+    1. Sopa
+    2. Pollo
+    3. Fruta
+* Martes
+    1. Ensalada
+    2. Lentejas
+    3. Yogur
 
-# Header 1
-## Header 2
-### Header 3
+Enlace a [Google](https://www.google.com/).
 
-- Bulleted
-- List
+Enlace a [Google](https://www.google.com/ "Buscador Google").
 
-1. Numbered
-2. List
+>Esto es una cita.
 
-**Bold** and _Italic_ and `Code` text
+---
+___
 
-[Link](url) and ![Image](src)
+`console.log('Hola Mundo')`
+
+```html
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Mes     | Ventas  |
+| --------|:-------:|
+| Enero   | 100     |
+| Febrero | 300     |
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/almerimedia/test-jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Mafalda](https://styles.redditmedia.com/t5_2w8ri/styles/communityIcon_thh6yuszjic51.png?width=256&s=71fd03d44397965791c83215febb4ea7f58d0861 "Mafalda")
